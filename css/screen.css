@@ -2,4 +2,8 @@
 
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:300,300italic,700,700italic);
 
+
 body { font-family: 'Open Sans', sans-serif; font-size: 16px; font-weight: 300; color: #555; margin: 0; padding: 0;}
+
+/* Text */
+h1 { margin: 0 0 1em 0; font-size: 2.8em; font-weight: 700;}
