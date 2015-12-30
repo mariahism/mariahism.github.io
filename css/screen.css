@@ -59,7 +59,9 @@ section.main aside .content.trending { background-image: url(../images/icon_star
 section.main aside .content.find-it { background-image: url(../images/icon_marker.svg); }
 section.main aside .content.tools { background-image: url(../images/icon_gear.svg); }
 
+/* Section - Atmosphere */
 
+section.atmosphere { background-color: #cc6633; padding-top: 30px; padding-bottom: 30px; color: #fff; }
 
 
 
