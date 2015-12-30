@@ -16,8 +16,9 @@ h1 { margin: 0 0 1.5em 0; font-size: 1em; font-weight: 700; }
 p { margin: 0 0 1em 0; }
 
 a { color: #007eff; }
-
 a:visited { color: #65b1ff; }
+
+a.btn { font-size: 1.2em; text-decoration: none; color: #fff; border: 1px solid #fff; padding: 4px 15px;}
 
 
 /* Header */
