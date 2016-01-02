@@ -93,7 +93,7 @@ section.how-to blockquote {
  	position: relative; 
  }
 
-section.how-to blockquote ::before { 
+section.how-to blockquote::before { 
 	content:'\201c'; color: #d2bd65;
 	position: absolute;
 	top: 10px; left: 8px;
