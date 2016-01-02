@@ -204,5 +204,16 @@ footer a:hover { margin-left: 30px; color: #000; }
 	section.how-to blockquote p.credit { font-size: .85em; }
 }
 
+@media screen and (max-width: 760px) {
+	h1 { font-size: 1.8em; }
+	h2 { font-size: 1.4em; }
+	h3 { font-size: 1.1em; }
+	a.btn {font-size: 1em; }
+
+	/* Header */
+	header a.logo { width: 145px; height: 60px; }
+
+
+}
 
 
