@@ -101,5 +101,9 @@ section.how-to blockquote::before {
 	font-family: serif;
 }
 
+section.how-to blockquote p.quote::after { content:'\201d'; font-family: serif; }
+
+section.how-to blockquote p.credit::before { content:'\2014'; position: absolute; top: -1px; left: 0; }
+
 
 
