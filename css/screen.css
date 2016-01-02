@@ -75,8 +75,12 @@ section.how-to aside .content { padding: 30px 30px 20px 0; }
 
 section.how-to aside .content img { display: block; margin-bottom: 15px; width: 70%; }
 
+section.how-to blockquote { 
+	margin 0; width: 32%; 
+	color: #444;
+	background-color: #fff;
+	position: absolute; bottom: 0; right: 4%;
 
-
-
+ }
 
 
