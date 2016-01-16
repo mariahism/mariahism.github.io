@@ -255,6 +255,10 @@ footer a:hover { margin-left: 30px; color: #000; }
 		background-position: 20px 5px; 
 	}
 
+	/* Section - Atmosphere */
+	section.atmosphere article { padding: 160px x20px 0px 0px; background-size: 300px auto; min-height: initial; }
+
+
 	/* Navigation */
 	nav { position: static; width: auto; padding: 20px 15px; background-color: #4b0a0c; }
 
