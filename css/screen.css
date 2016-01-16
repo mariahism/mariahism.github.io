@@ -207,10 +207,23 @@ footer a:hover { margin-left: 30px; color: #000; }
 	h1 { font-size: 1.8em; }
 	h2 { font-size: 1.4em; }
 	h3 { font-size: 1.1em; }
-	a.btn {font-size: 1em; }
+	a.btn { font-size: 1em; }
 
 	/* Header */
 	header a.logo { width: 145px; height: 60px; }
+	header div.hero { top: 140px; left: 48%; }
+
+	/* Section - Main */
+	section.main { margin-top: 10px; margin-bottom: 10px; }
+	section.main aside div.content { background-size: 55px 55px; padding-top: 60px; }
+
+	/* Section - How To  */
+	section.how-to aside div.content img { width: 85%; }
+
+	/* Navigation */
+	nav { padding-top: 80px; }
+	nav > ul { padding-left: 10px; }
+
 
 
 }
