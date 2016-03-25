@@ -286,6 +286,12 @@ footer a:hover { margin-left: 30px; color: #000; }
 	/* Navigation */
 	nav { position: static; width: auto; padding: 20px 15px; background-color: #4b0a0c; }
 
+	nav ul, 
+	nav ul ul, 
+	nav ul ul ul { display: block; position: static; }
+
+	nav > ul { padding: 0; }
+	nav > ul > li { float: none; margin-top: 25px; }
 }
 
 
