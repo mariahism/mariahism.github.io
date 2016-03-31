@@ -23,3 +23,6 @@ a, a:visited { color: inherit; text-decoration: none; }
 
 nav { display: none;}
 
+header { position: relative; }
+
+header::after { content:url(../images/banner_1300_print.jpg); width: 90%; }
